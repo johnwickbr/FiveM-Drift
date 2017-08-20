@@ -1,0 +1,692 @@
+[         0] Initializing Mono
+[       172] Initializing Mono completed
+[       203] Hello!
+[       406] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       406]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       406]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       422] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       453] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       453] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       468] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       484] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       484] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       500] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       515] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       531] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       531] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       547] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       562] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       562] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       578] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       593] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       609] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       609] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       625] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       640] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       656] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       672] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       734] Started resource sessionmanager
+[       765] Started resource mapmanager
+[       890] Started resource chat
+[       906] Started resource spawnmanager
+[       922] Started resource fivem
+[       937] Started gametype Freeroam
+[       953] Started resource hardcap
+[       984] Started resource rconlog
+[      1031] Started resource scoreboard
+[      1172] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1187] Sending heartbeat to live-internal.fivem.net:30110
+[      1203] Started resource fivem-map-hipster
+[      1203] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       140] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       156]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       156]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       172] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       187] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       187] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       203] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       203] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       218] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       265] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       265] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       297] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       297] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       312] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       328] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       343] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       359] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       375] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       422] Started resource sessionmanager
+[       437] Started resource mapmanager
+[       453] Started resource chat
+[       468] Started resource spawnmanager
+[       468] Started resource fivem
+[       484] Started gametype Freeroam
+[       500] Started resource hardcap
+[       500] Started resource rconlog
+[       515] Started resource scoreboard
+[       578] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       593] Sending heartbeat to live-internal.fivem.net:30110
+[       609] Started resource fivem-map-skater
+[       609] Started map fivem-map-skater
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[       125] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       125]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       140]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       156] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       156] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       187] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       218] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       234] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       250] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       250] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       265] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       281] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       281] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       297] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       312] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       312] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       328] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       328] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       343] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       375] Started resource sessionmanager
+[       390] Started resource mapmanager
+[       406] Started resource chat
+[       422] Started resource spawnmanager
+[       422] Started resource fivem
+[       437] Started gametype Freeroam
+[       453] Started resource hardcap
+[       453] Started resource rconlog
+[       468] Started resource scoreboard
+[       640] Resolved www.famex-boss.de to 173.212.232.194:30110
+[       640] Sending heartbeat to www.famex-boss.de
+[       656] Started resource fivem-map-hipster
+[       656] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       141] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       141]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       141]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       156] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       188] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       188] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       219] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       234] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       234] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       250] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       266] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       266] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       281] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       297] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       297] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       313] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       313] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       328] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       344] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       344] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       391] Started resource sessionmanager
+[       406] Started resource mapmanager
+[       422] Started resource chat
+[       422] Started resource spawnmanager
+[       438] Started resource fivem
+[       438] Started gametype Freeroam
+[       453] Started resource hardcap
+[       469] Started resource rconlog
+[       484] Started resource scoreboard
+[       578] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       578] Sending heartbeat to live-internal.fivem.net:30110
+[       594] Started resource fivem-map-hipster
+[       609] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       141] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       141]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       156]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       172] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       187] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       203] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[       203] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       266] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       281] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       297] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       312] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       312] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       344] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       359] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       359] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       406] Started resource sessionmanager
+[       422] Started resource mapmanager
+[       437] Started resource chat
+[       453] Started resource spawnmanager
+[       453] Started resource fivem
+[       453] Started gametype Freeroam
+[       469] Started resource hardcap
+[       484] Started resource rconlog
+[       500] Started resource scoreboard
+[       516] Started resource sexyspeedometer
+[       609] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       609] Sending heartbeat to live-internal.fivem.net:30110
+[       625] Started resource fivem-map-hipster
+[       641] Started map fivem-map-hipster
+[     69328] Connecting: »xXBoss♥FameXx«
+[     70547] Sending heartbeat to live-internal.fivem.net:30110
+[    186094] Sending heartbeat to live-internal.fivem.net:30110
+[    341234] Initializing Mono
+[    341250] Initializing Mono completed
+[    341266] Hello!
+[    341375] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    341391]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    341391]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    341406] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    341422] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    341437] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    341453] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    341453] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    341469] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    341484] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    341500] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    341516] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    341531] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    341531] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    341547] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    341562] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    341578] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    341578] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    341594] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    341609] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    341625] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    341625] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    341641] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    341656] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    341672] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    341672] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    341750] Started resource sessionmanager
+[    341766] Listening on socket failed - libuv error address already in use.
+[    341766] net-tcp-server failed to create server: couldn't listenCould not bind MultiplexTcpServer to 0.0.0.0:30120.
+[    341781] Could not bind on 0.0.0.0:30120 - is this address valid and not already in use?
+[    341812] Started resource mapmanager
+[    342031] Started resource chat
+[    342062] Started resource spawnmanager
+[    342078] Started resource fivem
+[    342078] Started gametype Freeroam
+[    342109] Started resource hardcap
+[    342125] Started resource rconlog
+[    342219] Started resource scoreboard
+[    342250] Started resource sexyspeedometer
+[    342281] Started resource textcmds
+[    342375] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    342375] Sending heartbeat to live-internal.fivem.net:30110
+[    342391] Started resource fivem-map-hipster
+[    342406] Started map fivem-map-hipster
+[    344828] Initializing Mono
+[    344859] Initializing Mono completed
+[    344859] Hello!
+[    344984] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    344984]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    344984]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    345000] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    345016] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    345031] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    345031] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    345047] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    345047] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    345062] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    345078] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    345078] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    345094] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    345109] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    345109] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    345125] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    345125] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    345141] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    345156] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    345156] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    345172] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    345187] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    345187] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    345203] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    345219] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    345219] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    345266] Started resource sessionmanager
+[    345281] Started resource mapmanager
+[    345312] Started resource chat
+[    345312] Started resource spawnmanager
+[    345328] Started resource fivem
+[    345328] Started gametype Freeroam
+[    345344] Started resource hardcap
+[    345359] Started resource rconlog
+[    345375] Started resource scoreboard
+[    345375] Started resource sexyspeedometer
+[    345391] Started resource textcmds
+[    345453] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    345469] Sending heartbeat to live-internal.fivem.net:30110
+[    345484] Started resource fivem-map-skater
+[    345500] Started map fivem-map-skater
+[    363578] Connecting: »xXBoss♥FameXx«
+[    364703] Sending heartbeat to live-internal.fivem.net:30110
+[    374859] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       125] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       140]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       140]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       156] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       187] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       187] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[       203] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[       203] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       218] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       234] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       234] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       250] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       265] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       281] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       281] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       297] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       297] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       312] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       343] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       343] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       359] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       390] Started resource sessionmanager
+[       422] Started resource mapmanager
+[      1718] Started resource chat
+[      1734] Started resource spawnmanager
+[      1734] Started resource fivem
+[      1750] Started gametype Freeroam
+[      1750] Started resource hardcap
+[      1765] Started resource rconlog
+[      1812] Started resource scoreboard
+[      1828] Started resource sexyspeedometer
+[      1843] Started resource textcmds
+[      1890] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1906] Sending heartbeat to live-internal.fivem.net:30110
+[      1922] Started resource fivem-map-hipster
+[      1922] Started map fivem-map-hipster
+[     43234] Connecting: »xXBoss♥FameXx«
+[     44109] Sending heartbeat to live-internal.fivem.net:30110
+[    111265] Sending heartbeat to live-internal.fivem.net:30110
+[    267359] Initializing Mono
+[    267375] Initializing Mono completed
+[    267390] Hello!
+[    267484] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    267500]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    267500]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    267515] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    267515] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    267531] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    267547] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    267547] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[    267562] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    267562] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    267578] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    267578] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    267593] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    267609] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    267609] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    267625] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    267625] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    267640] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    267656] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    267656] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    267672] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    267672] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    267687] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    267703] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    267703] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    267718] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    267718] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    267765] Started resource sessionmanager
+[    267781] Started resource mapmanager
+[    267797] Started resource chat
+[    267797] Started resource spawnmanager
+[    267812] Started resource fivem
+[    267812] Started gametype Freeroam
+[    267828] Started resource hardcap
+[    267843] Started resource rconlog
+[    267859] Started resource scoreboard
+[    267859] Started resource sexyspeedometer
+[    267875] Started resource textcmds
+[    268140] Started resource loadscreen
+[    268234] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    268234] Sending heartbeat to live-internal.fivem.net:30110
+[    268250] Started resource fivem-map-hipster
+[    268250] Started map fivem-map-hipster
+[    283687] Connecting: »xXBoss♥FameXx«
+[    284812] Sending heartbeat to live-internal.fivem.net:30110
+[    310609] Sending heartbeat to live-internal.fivem.net:30110
+[    457593] Initializing Mono
+[    457625] Initializing Mono completed
+[    457625] Hello!
+[    457734] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    457750]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    457750]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    457765] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    457781] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    457797] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    457797] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    457812] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[    457812] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    457828] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    457843] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    457843] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    457859] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    457875] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    457875] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    457890] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    457906] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    457906] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    457922] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    457937] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    457937] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    457953] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    457968] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    457968] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    457984] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    457984] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    458000] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    458047] Started resource sessionmanager
+[    458062] Started resource mapmanager
+[    458250] Started resource chat
+[    458265] Started resource spawnmanager
+[    458265] Started resource fivem
+[    458281] Started gametype Freeroam
+[    458297] Started resource hardcap
+[    458312] Started resource rconlog
+[    458359] Started resource scoreboard
+[    458375] Started resource sexyspeedometer
+[    458390] Started resource textcmds
+[    458515] Started resource loadscreen
+[    458578] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    458578] Sending heartbeat to live-internal.fivem.net:30110
+[    458593] Started resource fivem-map-hipster
+[    458593] Started map fivem-map-hipster
+[    469593] Connecting: »xXBoss♥FameXx«
+[    470718] Sending heartbeat to live-internal.fivem.net:30110
+[    495531] Sending heartbeat to live-internal.fivem.net:30110
+[    682000] Initializing Mono
+[    682031] Initializing Mono completed
+[    682031] Hello!
+[    682140] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    682156]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    682156]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    682172] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    682187] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    682187] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    682203] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    682218] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[    682218] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    682234] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    682234] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    682250] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    682250] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    682265] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    682281] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    682281] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    682297] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    682297] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    682312] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    682328] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    682328] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    682343] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    682359] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    682359] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    682375] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    682390] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    682390] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    682437] Started resource sessionmanager
+[    682453] Started resource mapmanager
+[    682562] Started resource chat
+[    682578] Started resource spawnmanager
+[    682593] Started resource fivem
+[    682593] Started gametype Freeroam
+[    682609] Started resource hardcap
+[    682625] Started resource rconlog
+[    682672] Started resource scoreboard
+[    682687] Started resource sexyspeedometer
+[    682687] Started resource textcmds
+[    682797] Started resource loadscreen
+[    682890] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    682890] Sending heartbeat to live-internal.fivem.net:30110
+[    682906] Started resource fivem-map-hipster
+[    682922] Started map fivem-map-hipster
+[    690390] Connecting: »xXBoss♥FameXx«
+[    691515] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[       125] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       125]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       125]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       141] Found new resource fivem in C:/FiveMServer/resources//fivem
+[       157] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[       157] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[       172] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[       188] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[       203] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[       203] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[       219] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[       235] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[       235] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[       266] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[       266] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[       282] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[       282] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[       297] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[       313] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[       313] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[       344] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[       344] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[       360] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[       391] Started resource sessionmanager
+[       407] Started resource mapmanager
+[       422] Started resource chat
+[       438] Started resource spawnmanager
+[       438] Started resource fivem
+[       438] Started gametype Freeroam
+[       453] Started resource hardcap
+[       469] Started resource rconlog
+[       469] Started resource scoreboard
+[       485] Started resource sexyspeedometer
+[       500] Started resource textcmds
+[       610] Started resource loadscreen
+[       672] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       672] Sending heartbeat to live-internal.fivem.net:30110
+[       688] Started resource fivem-map-skater
+[       703] Started map fivem-map-skater
+[     37641] Connecting: »xXBoss♥FameXx«
+[     38875] Sending heartbeat to live-internal.fivem.net:30110
+[     93282] Sending heartbeat to live-internal.fivem.net:30110
+[    224469] Initializing Mono
+[    224485] Initializing Mono completed
+[    224500] Hello!
+[    224610] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    224610]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    224625]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    224641] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    224641] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    224657] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    224657] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    224672] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[    224672] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    224688] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    224703] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    224703] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    224719] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    224735] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    224735] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    224750] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    224766] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    224766] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    224782] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    224782] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    224797] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    224797] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    224813] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    224828] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    224828] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    224844] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    224844] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    224891] Started resource sessionmanager
+[    224907] Started resource mapmanager
+[    225032] Started resource chat
+[    225047] Started resource spawnmanager
+[    225047] Started resource fivem
+[    225063] Started gametype Freeroam
+[    225078] Started resource hardcap
+[    225078] Started resource rconlog
+[    225125] Started resource scoreboard
+[    225125] Started resource sexyspeedometer
+[    225141] Started resource textcmds
+[    225250] Started resource loadscreen
+[    225313] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    225328] Sending heartbeat to live-internal.fivem.net:30110
+[    225344] Started resource fivem-map-hipster
+[    225344] Started map fivem-map-hipster
+[    232188] Connecting: »xXBoss♥FameXx«
+[    233266] Sending heartbeat to live-internal.fivem.net:30110
+[    273422] Sending heartbeat to live-internal.fivem.net:30110
+[    595110] Initializing Mono
+[    595125] Initializing Mono completed
+[    595141] Hello!
+[    595235] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    595250]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    595250]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    595266] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    595266] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    595282] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    595297] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    595297] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[    595313] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    595313] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    595328] Found new resource trainer in C:/FiveMServer/resources//trainer
+[    595344] Resource loading for trainer failed:
+[    595344] Could not open resource metadata file C:/FiveMServer/resources//trainer/__resource.lua.
+[    595344] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    595360] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    595375] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    595375] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    595391] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    595407] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    595407] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    595422] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    595438] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    595438] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    595453] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    595453] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    595469] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    595485] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    595485] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    595500] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    595516] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    595547] Started resource sessionmanager
+[    595563] Started resource mapmanager
+[    595688] Started resource chat
+[    595703] Started resource spawnmanager
+[    595719] Started resource fivem
+[    595719] Started gametype Freeroam
+[    595735] Started resource hardcap
+[    595750] Started resource rconlog
+[    595782] Started resource scoreboard
+[    595813] Started resource sexyspeedometer
+[    595813] Started resource textcmds
+[    595938] Started resource loadscreen
+[    595938] Started resource trainer
+[    596032] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    596032] Sending heartbeat to live-internal.fivem.net:30110
+[    596047] Started resource fivem-map-skater
+[    596047] Started map fivem-map-skater
+[    599391] Connecting: »xXBoss♥FameXx«
+[    630438] Initializing Mono
+[    630453] Initializing Mono completed
+[    630469] Hello!
+[    630563] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[    630578]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[    630578]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[    630594] Found new resource fivem in C:/FiveMServer/resources//fivem
+[    630594] Found new resource fivem-awesome1501 in C:/FiveMServer/resources//fivem-awesome1501
+[    630610] Found new resource fivem-map-hipster in C:/FiveMServer/resources//fivem-map-hipster
+[    630625] Found new resource fivem-map-skater in C:/FiveMServer/resources//fivem-map-skater
+[    630625] Found new resource loadscreen in C:/FiveMServer/resources//loadscreen
+[    630641] Found new resource sexyspeedometer in C:/FiveMServer/resources//sexyspeedometer
+[    630641] Found new resource textcmds in C:/FiveMServer/resources//textcmds
+[    630657] Found new resource trainer in C:/FiveMServer/resources//trainer
+[    630672] Resource loading for trainer failed:
+[    630672] Could not open resource metadata file C:/FiveMServer/resources//trainer/__resource.lua.
+[    630672] Found new resource race in C:/FiveMServer/resources//[gamemodes]/race
+[    630688] Found new resource race-test in C:/FiveMServer/resources//[gamemodes]/race-test
+[    630703] Found new resource channelfeed in C:/FiveMServer/resources//[gameplay]/channelfeed
+[    630703] Found new resource irc in C:/FiveMServer/resources//[gameplay]/irc
+[    630719] Found new resource obituary in C:/FiveMServer/resources//[gameplay]/obituary
+[    630735] Found new resource obituary-deaths in C:/FiveMServer/resources//[gameplay]/obituary-deaths
+[    630735] Found new resource mapmanager in C:/FiveMServer/resources//[managers]/mapmanager
+[    630750] Found new resource baseevents in C:/FiveMServer/resources//[system]/baseevents
+[    630766] Found new resource chat in C:/FiveMServer/resources//[system]/chat
+[    630766] Found new resource hardcap in C:/FiveMServer/resources//[system]/hardcap
+[    630782] Found new resource rconlog in C:/FiveMServer/resources//[system]/rconlog
+[    630797] Found new resource scoreboard in C:/FiveMServer/resources//[system]/scoreboard
+[    630797] Found new resource sessionmanager in C:/FiveMServer/resources//[system]/sessionmanager
+[    630813] Found new resource spawnmanager in C:/FiveMServer/resources//[system]/spawnmanager
+[    630813] Found new resource betaguns in C:/FiveMServer/resources//[test]/betaguns
+[    630828] Found new resource gameInit in C:/FiveMServer/resources//[test]/gameInit
+[    630844] Found new resource keks in C:/FiveMServer/resources//[test]/keks
+[    630875] Started resource sessionmanager
+[    630891] Started resource mapmanager
+[    630907] Started resource chat
+[    630922] Started resource spawnmanager
+[    630922] Started resource fivem
+[    630938] Started gametype Freeroam
+[    630938] Started resource hardcap
+[    630953] Started resource rconlog
+[    630969] Started resource scoreboard
+[    630969] Started resource sexyspeedometer
+[    630985] Started resource textcmds
+[    631078] Started resource loadscreen
+[    631078] Started resource trainer
+[    631141] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    631141] Sending heartbeat to live-internal.fivem.net:30110
+[    631157] Started resource fivem-map-skater
+[    631157] Started map fivem-map-skater
+[    639125] Connecting: »xXBoss♥FameXx«
