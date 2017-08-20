@@ -9,7 +9,7 @@ offset = {x = 0.005, y = 0.001}
 
 -- Text RGB Color --
 -- Default: 64, 64, 64 (gray)
-rgb = {r = 64, g = 64, b = 64}
+rgb = {r = 255, g = 255, b = 255}
 
 -- Text transparency --
 -- Default: 255
@@ -18,7 +18,7 @@ alpha = 255
 -- Text scale
 -- Default: 0.4
 -- NOTE: Number needs to be a float (so instead of 1 do 1.0)
-scale = 0.4
+scale = 1.0
 
 -- Text Font --
 -- 0 - 5 possible
