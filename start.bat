@@ -1,0 +1,1 @@
+C:\FiveMServer\run.cmd +exec server.cfg
